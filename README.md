@@ -32,3 +32,5 @@ This dataset was from [Kaggle](https://www.kaggle.com/hugomathien/soccer).
 ## Link To Presentation
 [Link to our Final Presentation](https://docs.google.com/presentation/d/19XGTfnhjeZxbH7hT8uwG4sSjt_CmGPg0jFG6eiIhDLY/edit?usp=sharing)
 ## Please run Project Final.ipynb only as it contains all the code
+## Link To Dataset
+[Link to Dataset](https://drive.google.com/open?id=1ModtzJ2PJacA5hUJz94K1zoFk1KWX5n5)
