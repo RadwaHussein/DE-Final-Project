@@ -1,10 +1,10 @@
 # Data-Engineering-Final-Project
 ## Team Name: Te-data
 ## Team Members:
-   Malak Hatem 
-   Radwa Husssein
-   Mostafa Ahmed 
-   Ziad Ramzy
+   Malak Hatem,
+   Radwa Husssein,
+   Mostafa Ahmed, 
+   Ziad Ramzy,
    Ahmed Hossam
 ## Introduction
 The database contents:
