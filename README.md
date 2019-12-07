@@ -28,3 +28,6 @@ This dataset was from [Kaggle](https://www.kaggle.com/hugomathien/soccer).
 - Sqlite3
 - Seaborn
 - Jupyter Notebook
+
+##Link To Presentation
+[Link to our Final Presentation](https://docs.google.com/presentation/d/19XGTfnhjeZxbH7hT8uwG4sSjt_CmGPg0jFG6eiIhDLY/edit?usp=sharing)
